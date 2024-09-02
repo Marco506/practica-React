@@ -1,5 +1,5 @@
 
-import FormRegister from "../components/FormLogin"
+import FormRegister from "../components/FormRegister"
 
 function Register() {
 
