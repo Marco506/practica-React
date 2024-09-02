@@ -1,0 +1,20 @@
+#contLineas{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: blueviolet;
+    border-radius: 20px;
+}
+body{
+    background-color: #333;
+    font-family: cursive;
+    color: aliceblue;
+}
+#inicio{
+    background-color: aliceblue;
+    font-family: cursive;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+}
